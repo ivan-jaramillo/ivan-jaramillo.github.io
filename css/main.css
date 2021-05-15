@@ -1,8 +1,10 @@
 /*
-    This is really just here to have in case of a need to override any of the 
-    styling Bootstrap provides.
+    TODO: Add styling to everything for a modern, clean feel.
+    TODO: Replace the favicon for something more iconic.
+    TODO: Add a new profile picture for a human touch to the website.
 */
 
-h2 {
-    margin-top: .5rem;
-}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Helvetica Neue", Arial, sans-serif;
+  }
