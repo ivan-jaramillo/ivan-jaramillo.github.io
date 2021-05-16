@@ -7,6 +7,7 @@ section {
     height: 100vh;
 }
 
+/* Starts at two as we have a header which is considered section one. */
 section:nth-child(2) {
     background-color: red;
 }
