@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+    margin: 0; /* FIXME: Remove if causing problems with viewport. */
+}
+
+section {
+    height: 100vh;
+}
+
+section:nth-child(1) {
+    background-color: red;
+}
+
+section:nth-child(2) {
+    background-color: green;
+}
+
+section:nth-child(3) {
+    background-color: blue;
+}
